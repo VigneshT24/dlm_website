@@ -79,7 +79,7 @@ export default function Home() {
               </a>
 
               <a 
-                href="https://pypi.org/project/your-dlm-package-name/" 
+                href="https://pypi.org/project/dynamic-learning-model/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="px-6 py-3 w-full sm:w-auto justify-center rounded-xl bg-white/5 border border-white/10 hover:bg-white/10 text-white font-medium transition-all flex items-center gap-2"
