@@ -1,0 +1,23 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --background: 0 0% 4%; /* Near black */
+    --foreground: 0 0% 98%; /* Off-white text */
+    --card: 0 0% 6%;
+    --card-foreground: 0 0% 98%;
+    --border: 0 0% 15%;
+    --primary: 235 86% 65%; /* The #5964eb Indigo accent */
+    --primary-foreground: 0 0% 100%;
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 65%;
+  }
+}
+
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
