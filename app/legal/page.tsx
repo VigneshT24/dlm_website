@@ -28,7 +28,9 @@ export default function LegalNotice() {
             <h2 className="text-xl font-semibold text-white mb-4">1. MIT License</h2>
             <p className="mb-4">
               The Dynamic Learning Model (DLM) is open-source software licensed under the MIT License. 
-              Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+              Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
+              to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software,
+              provided that the author is credited.
             </p>
           </section>
 
